@@ -1,0 +1,16 @@
+.jumbotron {
+    background-color: rgb(145, 147, 138);
+    margin: 70px;
+}
+
+#erf {
+    background-color: rgb(150, 141, 138);
+    box-shadow: 0px;
+}
+
+#ind {
+    margin-left: 51px;
+}
+
+
+/* backdrop-filter: initial;
