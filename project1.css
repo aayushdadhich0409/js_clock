@@ -1,15 +1,31 @@
 .jumbotron {
-    background-color: rgb(145, 147, 138);
-    margin: 70px;
-}
-
-#erf {
-    background-color: rgb(150, 141, 138);
-    box-shadow: 0px;
+    /* background-color: rgb(145, 147, 138); */
+    color: white;
+    padding: 2rem;
+    border-radius: 2rem;
+    background: rgba( 0, 0, 0, 0.3);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37);
+    backdrop-filter: blur( 8px);
+    -webkit-backdrop-filter: blur( 8px);
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18);
+    margin-top: 180%;
 }
 
 #ind {
     margin-left: 51px;
+}
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/4834078.jpg");
+    background-repeat: no-repeat;
+    background-size: 1600px 900px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 
